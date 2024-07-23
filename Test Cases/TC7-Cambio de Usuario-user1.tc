@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input:&#xd;
+	Nombre de usuario: válido,&#xd;
+	Contraseña: válida.&#xd;
+Acciones:&#xd;
+	Editar perfil: cambiar email.&#xd;
+	Log Out.&#xd;
+Resultado esperado:&#xd;
+	Login exitoso con credenciales nuevas.</description>
+   <name>TC7-Cambio de Usuario-user1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ce98b6a-c18f-45a3-bb53-06c1ed11563e</testCaseGuid>
+</TestCaseEntity>

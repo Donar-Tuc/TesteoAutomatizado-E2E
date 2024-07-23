@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Actions:&#xd;
+	Form &quot;Registrarse&quot;&#xd;
+Resultado esperado:&#xd;
+	Solicitud enviada con éxito: &quot;Form submitted succesfully.&quot;</description>
+   <name>TC6-Solicitud de Registro</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd4a6f5d-de7e-4017-91de-16469f27fd21</testCaseGuid>
+</TestCaseEntity>

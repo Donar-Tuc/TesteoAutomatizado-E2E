@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Este es nuestro proyecto</name>
+   <tag></tag>
+   <elementGuidId>74834b97-3c43-4f2c-9833-7acc15dfd98a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;descripcion&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='descripcion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>affb0eb1-4a8c-4c88-8f8b-eace05e8e2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control </value>
+      <webElementGuid>6c0249a7-2162-4864-b0cb-4fd8277a4617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>descripcion</value>
+      <webElementGuid>b20406b4-9a4e-4d36-8b0d-38f7e66cd450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Este es nuestro proyecto</value>
+      <webElementGuid>1ed6874f-eb16-434b-938d-74b2c63b16f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PerfilContainer&quot;]/div[@class=&quot;ProfileInformation&quot;]/div[@class=&quot;InfoGridContainer&quot;]/div[@class=&quot;containerTextoPerfil&quot;]/form[@class=&quot;FormPerfil&quot;]/div[@class=&quot;mb-3&quot;]/textarea[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>31e26707-b314-4388-abe4-82e62c6661a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='descripcion']</value>
+      <webElementGuid>ae4f95a2-245a-4f48-9d40-49d71b1a84e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/form/div[6]/textarea</value>
+      <webElementGuid>0fb6b06a-baf8-4922-b9cf-ec29d50d40db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[1]/following::textarea[1]</value>
+      <webElementGuid>57fa2310-b53a-437d-be4b-7a34309c040a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo Electrónico'])[1]/following::textarea[1]</value>
+      <webElementGuid>7295bc2e-0cf1-4fa5-bf86-dc108d382b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar Imagen de Perfil'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>f257b939-b4e4-4c73-b9f4-01d11bc429d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione qué donaciones recibe'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>7f168802-568a-422d-8660-9eac0a437d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Este es nuestro proyecto']/parent::*</value>
+      <webElementGuid>8073b3b3-6743-4fa5-86d2-9f6ccc0540fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>6b1e9f1d-a182-4e9a-9bab-b1f2ac6dec01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'descripcion' and (text() = 'Este es nuestro proyecto' or . = 'Este es nuestro proyecto')]</value>
+      <webElementGuid>27a1ff2f-2e44-43cb-8987-30fc1aff47a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

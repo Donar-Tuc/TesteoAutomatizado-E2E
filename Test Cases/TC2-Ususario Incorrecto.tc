@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input:&#xd;
+	Nombre de usuario: inválido,&#xd;
+	Contraseña: válida.&#xd;
+Resultado esperado:&#xd;
+	Login fallido; &quot;Please provide valid credentials.&quot;</description>
+   <name>TC2-Ususario Incorrecto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cd93f11-37af-45dc-983b-f72aa0696b02</testCaseGuid>
+</TestCaseEntity>

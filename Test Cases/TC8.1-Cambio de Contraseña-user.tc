@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input:&#xd;
+	Nombre de usuario: válido,&#xd;
+	Contraseña: válida.&#xd;
+Acciones:&#xd;
+	Gestión de Cuenta: Cambiar contraseña.&#xd;
+	Log Out.&#xd;
+Resultado esperado:&#xd;
+	Login exitoso con credenciales nuevas.</description>
+   <name>TC8.1-Cambio de Contraseña-user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b2ebce0-adbb-4d82-a371-e3247e68c589</testCaseGuid>
+</TestCaseEntity>

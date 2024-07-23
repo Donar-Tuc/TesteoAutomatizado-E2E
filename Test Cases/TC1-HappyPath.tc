@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input:&#xd;
+	Nombre de usuario: válido,&#xd;
+	Contraseña: válida.&#xd;
+Resultado esperado:&#xd;
+	Login exitoso; &quot;Configuración de Perfil&quot;</description>
+   <name>TC1-HappyPath</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e5022b8-3109-4f7a-8cf4-48679461c47b</testCaseGuid>
+</TestCaseEntity>

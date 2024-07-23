@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input:&#xd;
+	Nombre de usuario: válido,&#xd;
+	Contraseña: inválida.&#xd;
+Resultado esperado:&#xd;
+	Login fallido; &quot;Please provide valid credentials.&quot;</description>
+   <name>TC3-Contraseña Incorrecta</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>830d8295-d9d6-4f1d-88c6-1fb59ef2940a</testCaseGuid>
+</TestCaseEntity>

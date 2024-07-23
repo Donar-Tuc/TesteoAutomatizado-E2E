@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input:&#xd;
+	Nombre de usuario: válido,&#xd;
+	Contraseña: válida.&#xd;
+Acciones:&#xd;
+	Editar perfil:&#xd;
+		Editar campos de texto: Nombre de la organización.&#xd;
+		Editar check boxes: Marcar Donaciones Monetarias.&#xd;
+Resultado esperado:&#xd;
+	Login exitoso: &quot;Configuración de Perfil&quot;&#xd;
+	Perfil editado con éxito: &quot;Perfil actualizado con éxito&quot;&#xd;
+	Nombre de la organización actualizado.&#xd;
+	Donaciones que recibe actualizadas.&#xd;
+	</description>
+   <name>TC5-Editar Perfil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b67b098d-3cdd-4ee5-8122-b17ed6c04c5b</testCaseGuid>
+</TestCaseEntity>
